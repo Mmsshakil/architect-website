@@ -327,6 +327,11 @@ footer>p {
         width: 100%;
     }
 
+    footer {
+        padding: 20px;
+        margin: 0px;
+    }
+
 }
 
 /* for medium devices */
@@ -354,6 +359,11 @@ footer>p {
 
     .feature-img img {
         width: 100%;
+    }
+
+    footer {
+        padding: 30px;
+        margin: 0px;
     }
 
 }
