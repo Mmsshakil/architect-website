@@ -133,6 +133,44 @@ main {
     font-weight: 400;
 }
 
+/* features section start */
+
+.feature {
+    display: flex;
+    margin: 120px auto;
+}
+
+.feature-detail {
+    margin-right: 130px;
+}
+
+#border-color {
+    border-left: 5px solid #FF900E;
+    padding-left: 20px;
+
+}
+
+.card {
+    border-radius: 8px;
+    background: #FFF;
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+.card-tytle {
+    color: #131313;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.card-descrip {
+    color: #727272;
+    font-size: 16px;
+    font-weight: 400;
+    /* line-height: 26px; */
+}
+
 
 /* face section start */
 
@@ -172,6 +210,15 @@ main {
     margin-top: 0;
 }
 
+/* sponser */
+.sponser {
+    margin-top: 150px;
+    text-align: center;
+}
+
+.sponser-img>img {
+    margin: 35px 50px;
+}
 
 
 
