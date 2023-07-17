@@ -250,6 +250,20 @@ main {
 }
 
 
+/* footer section */
+footer {
+    text-align: center;
+    border-radius: 8px;
+    background: #FFF4E7;
+    padding: 20px 200px;
+    margin: auto 240px 200px 240px;
+}
+
+footer>p {
+    color: #424242;
+    font-size: 20px;
+    font-weight: 400;
+}
 
 
 /* for responsive */
